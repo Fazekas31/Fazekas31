@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fazekas31
 - 👀 I’m interested in ...working and study
-- 🌱 I’m currently learning ... front-end and back-end
-- 📫 How to reach me ... www.linkedin.com/in/leonardofazekas or leonardofazekas@gmail.com and leonardo.fazekas@cocoa.dev.br
+- 🌱 I’m currently learning ... flutter developer
+- 📫 How to reach me ... www.linkedin.com/in/leonardofazekas or leonardofazekas@gmail.com
 
 <!---
 Fazekas31/Fazekas31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
